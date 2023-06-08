@@ -25,6 +25,10 @@ After this model was developed, we launched the solution in form of a streamlit 
 ## NOTE: 
 The Dataset used for this project contains sensitive information, Hence I'm unable to share the code.However I have added a demonstration of our solution; a streamlit web app that classifies financial statement and gives a result of the analysis in a downloadable csv format.
 
-[![Video](https://img.youtube.com/vi/3n2YDLGW4RM/0.jpg)](https://www.youtube.com/watch?v=3n2YDLGW4RM)
+
+
+https://github.com/nuel000/Financial-Statement-Fraud-Detection/assets/102439386/33cf55a7-e893-48c3-be48-2b52de715dde
+
+
 
 
